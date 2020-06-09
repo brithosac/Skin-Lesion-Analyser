@@ -23,6 +23,8 @@ Skin Lesion metadata and images were gathered from [Harvard Dataverse](https://d
 
 ### Data Overview
 
+![Examples of Each Cancer Class](https://github.com/brithosac/Skin-Lesion-Analyser/blob/master/assets/category_samples.png)
+
 <b>Melanocytic nevi (nv)</b><br>
 Melanocytic nevi are benign pigment-producing skin cells commonly called birth marks or moles that rarely become cancerous.<br>
 [6705 images]
@@ -69,6 +71,10 @@ Dermatofibroma is a benign skin lesion regarded as either a benign proliferation
  - 82% accuracy in classification of individual cancer classes
  - 89% accuracy in classification of top 2 probable cancer classes
  - 96% accuracy in classification of top 3 probable cancer classes
+
+![Accuracy: True class within top 3 predicted classes](https://github.com/brithosac/Skin-Lesion-Analyser/blob/master/assets/top_three.png)
+
+![Confusion Matrix](https://github.com/brithosac/Skin-Lesion-Analyser/blob/master/assets/confusion%20matrix.png)
 
 ### Conclusion
 
