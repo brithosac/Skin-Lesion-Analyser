@@ -63,12 +63,12 @@ Dermatofibroma is a benign skin lesion regarded as either a benign proliferation
 
 ### Model Summaries
 
-- Simple CNN: delivered accuracy of 7 on new data
-[simple CNN](link)
-- ResNet CNN:
-[resnet](link)
-
-metric images
+- [Simple CNN](https://github.com/brithosac/Skin-Lesion-Analyser/blob/master/code/02-cnn-model.ipynb)
+ - 77% accuracy in classification of individual cancer classes
+- [MobileNet](https://github.com/brithosac/Skin-Lesion-Analyser/blob/master/code/03-mobilenet-cnn-model.ipynb)
+ - 82% accuracy in classification of individual cancer classes
+ - 89% accuracy in classification of top 2 probable cancer classes
+ - 96% accuracy in classification of top 3 probable cancer classes
 
 ### Conclusion
 
