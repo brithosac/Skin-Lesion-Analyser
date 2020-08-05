@@ -51,7 +51,7 @@ Vascular skin lesions are relatively common abnormalities of the skin and underl
 [142 images]
 
 <b>Dermatofibroma (df)</b><br>
-Dermatofibroma is a benign skin lesion regarded as either a benign proliferation or an inflammatory reaction to minimal trauma. Dermatofibromas are common benign fibrous nodules that most often arise on the skin of the lower legs.[24].<br>
+Dermatofibroma is a benign skin lesion regarded as either a benign proliferation or an inflammatory reaction to minimal trauma. Dermatofibromas are common benign fibrous nodules that most often arise on the skin of the lower legs.<br>
 [115 images]
 
 <b>[Total images = 10015]</b>
