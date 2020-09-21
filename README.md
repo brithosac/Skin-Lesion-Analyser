@@ -79,13 +79,13 @@ Dermatofibroma is a benign skin lesion regarded as either a benign proliferation
 ### Conclusion
 
 Goals and next steps:<br>
-- Continue to Train various NN for higher accuracy
-- Make SkinScreen a reality
+- Continue to train various Neural Networks for higher accuracy
+- Make the desired online tool, SkinScreen, a reality
     - Deploy website or mobile app for general public
 - Users are able to submit a picture of a skin lesion and get the three highest probability diagnoses for a given skin lesion instantly.
 
 Recommendations:<br>
 - Depending on the type, skin cancer can grow rapidly and become life-threatening if not treated early. 
 - Examine your skin once a month and See your dermatologist annually
-- Wear Sunscreen everyday and as an extra precaution, don’t forget SkinScreen
+- Wear Sunscreen everyday and as an extra precaution, don’t forget to SkinScreen
     - Not intended for final diagnostic conclusion; please seek medical follow up with dermatologist to confirm the results of skin lesion classification by SkinScreen. 
