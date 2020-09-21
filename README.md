@@ -4,7 +4,7 @@ June 2020
 
 ### Skin Cancer Statistics 
 Information was sourced from [The Skin Cancer Foundation](https://www.skincancer.org/?gclid=CjwKCAjw5vz2BRAtEiwAbcVIL8mqF-E6D7wMD43ae4LYM1CludUDQgRf4h0RwJz7hGPlj8IALD_P8RoCwdkQAvD_BwE)
-- More people are diagnosed with skin cancer each year in the United Sated than all other cancers combined. 
+- More people are diagnosed with skin cancer each year in the United States than all other cancers combined. 
 - In the U.S., more than 9,500 people are diagnosed with skin cancer every day. 
 - 1 in 5 Americans will develop skin cancer by the age of 70.
 - The annual cost of treating skin cancers in the U.S. is estimated at $8.1 billion.
